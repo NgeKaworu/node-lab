@@ -1,1 +1,1 @@
-require("./src/path/path")
+require("./src/event")
